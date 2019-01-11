@@ -23,7 +23,7 @@ int main(int argc, char **argv)
     {
       // invalid directory
       printf("Unable to open directory: %s\n", argv[1]);
-      // exit program
+      // exit
 
   return 0;
   }
